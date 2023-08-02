@@ -1,4 +1,5 @@
-dd a 301 redirection
+#!/usr/bin/env bash
+# add a 301 redirection
 sudo apt update -y
 sudo apt install nginx -y
 
